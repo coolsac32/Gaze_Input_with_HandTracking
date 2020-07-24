@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Successful Tests/Gaze Test 6 - Working Object Placement Indicator.unity
+    guid: b921c5c8598eb0c45b8438ce6a48b747
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c615094c37110ee4da2c817cca5ad078,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f26edfaea88918f468594dc616d49634,
+      type: 2}
